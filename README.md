@@ -1,4 +1,4 @@
-# COMP2113
+# COMP2113 (Course project for CV only)
 Course project
 # 21-22-S2Project-Gp.180
 Programming Project Gp.180
